@@ -20,3 +20,4 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 
 3. new_tidy_data.txt: The file with the requested output, ie only standard deviation (std) and mean features.
+
